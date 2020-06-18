@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2> Hello Likhitha. Glad to meet you here Likhitha. </h2>
 <h2> Hi Rishi </h2>
-<h2> Hi Rajitha Kumari </h2>
+<h2> Hi Rajitha Kumari. </h2>
