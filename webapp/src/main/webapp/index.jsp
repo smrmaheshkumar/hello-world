@@ -1,3 +1,3 @@
-<h1> Hello Santhosh, Welcome to Simple DevOps Project !!   </h1>
+<h1> Hello Santhosh, Welcome to Simple DevOps Project !! Dated 03-07-2020   </h1>
 <h2> This is the Deployment on Tomcat !! </h2>
 
