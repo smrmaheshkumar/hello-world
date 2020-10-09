@@ -1,4 +1,3 @@
-<h1> Hello Mahesh Kumar G, Welcome to Simple DevOps Project !!  </h1>
-<h1> Hello Lakshmi Likhitha R, Welcome to Simple DevOps Project !!  </h1>
-<h2> This is the CI/CD using Ansible to Deploy on Docker !! </h2>
+<h1> Hi Likhitha Mahesh, Heartly Welcome to Simple DevOps Project !!  </h1>
+<h1> Hello Lakshmi Likhitha R, When You Will Come!  </h1>
 
